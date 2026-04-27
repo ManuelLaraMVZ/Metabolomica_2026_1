@@ -16,3 +16,6 @@ A06,G1,Relativa,SYBR,12.6390
 A01,G2,Relativa,SYBR,12.6994
 A02,G2,Relativa,SYBR,16.3150
 A03,G2,Relativa,SYBR,13.0971
+Referencia,Referencia,Relativa,SYBR,18.405
+Profesor,G1,Relativa,SYBR,20.05
+Profesor,G2,Relativa,SYBR,20.05
