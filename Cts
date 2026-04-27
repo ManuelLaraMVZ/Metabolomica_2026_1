@@ -3,8 +3,8 @@ Well,Grupo,Practica,Fluor,Cq
 10,Curva,Absoluta,SYBR,10.7723
 5,Curva,Absoluta,SYBR,13.8608
 1,Curva,Absoluta,SYBR,15.6871
-0.05,Curva,Absoluta,SYBR,16.4616
-0.01,Curva,Absoluta,SYBR,18.2555
+0.5,Curva,Absoluta,SYBR,16.4616
+0.1,Curva,Absoluta,SYBR,18.2555
 Muestra,G1,Absoluta,SYBR,11.5000
 Muestra,G2,Absoluta,SYBR,13.1136
 A01,G1,Relativa,SYBR,28.5503
